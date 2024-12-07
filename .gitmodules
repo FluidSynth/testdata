@@ -1,0 +1,3 @@
+[submodule "SoundFont-Spec-Test"]
+	path = SoundFont-Spec-Test
+	url = https://github.com/mrbumpy409/SoundFont-Spec-Test
